@@ -17,7 +17,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage" : "https://nahuelsan.github.io/busqueda-imagen/"
+    "homepage" : "https://nahuelsan.github.io/busqueda-imagen/app.js"
   },
   "eslintConfig": {
     "extends": "react-app"
