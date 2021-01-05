@@ -8,6 +8,6 @@
 
 Tan solo escribir las palabras claves y las pedira por API y las renderiza al hacer click te dirige al link de la imagen
 
-### `npm start`
+### Deploy en Netlify
 
-Ejecuta el comando `npm start`para correr la app
+https://peaceful-jang-48a58f.netlify.app/
